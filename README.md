@@ -1,7 +1,6 @@
 # Blind Stick
 
-A simple blind stick. This is just the rough sketch of the project
-
+A simple blind stick. 
 
 
 
